@@ -1,0 +1,14 @@
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.exe
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.deps.json
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.runtimeconfig.json
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.runtimeconfig.dev.json
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.dll
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\bin\Debug\netcoreapp3.1\task-5.1.pdb
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.csproj.AssemblyReference.cache
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.AssemblyInfoInputs.cache
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.AssemblyInfo.cs
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.csproj.CoreCompileInputs.cache
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.dll
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.pdb
+D:\Programlama\CodeAcamedy\task-5\task-5.1\task-5.1\obj\Debug\netcoreapp3.1\task-5.1.genruntimeconfig.cache
